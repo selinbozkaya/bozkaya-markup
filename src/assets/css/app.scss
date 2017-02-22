@@ -1,0 +1,33 @@
+.container {
+    background-color: #eff0f2;
+    max-width: 750px;
+    margin: 0 auto;
+
+}
+body {
+    background-color: #eff0f2;
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.headline {
+	font-size: 50px;
+	font-family: "Cambria";
+	line-height: 50px;
+}
+
+img {
+	width: 100%;
+}
+.body {
+	font-size: 22px;
+	line-height: 32px;
+	font-family: "Georgia";
+
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+	
+}
